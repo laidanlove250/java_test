@@ -86,7 +86,6 @@
      <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-freemarker</artifactId>
-       	<version>1.4.1.RELEASE</version>
      </dependency>
      <!-- Spring Boot Dubbo 依赖 -->
      <dependency>
